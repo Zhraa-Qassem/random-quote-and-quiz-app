@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import Quize from './Quiz'
+import Quize from './Quote'
 function App() {
   return (
     <div className="App">
